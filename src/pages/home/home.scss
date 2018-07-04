@@ -1,0 +1,30 @@
+page-home {
+p{
+    font-family: cursive;
+    color: yellow;
+        
+ } 
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 24pt;
+}
+
+background-image: url("../assets/imgs/image1.jpg");
+.background-image{
+    
+  border-radius: 5px;
+  opacity: 0,1;
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+         }
+
+         .car{
+             height: 350px;
+         }
+         .ion-card-title{
+            text-align: center;
+            position: absolute;
+         }
+}
